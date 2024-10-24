@@ -23,7 +23,7 @@ A real-time **face recognition-based attendance system** that identifies student
    ```bash
    pip install opencv-python face-recognition firebase-admin numpy cvzone
 
-## ** DEMO**
+## **DEMO**
 
 ![DEMO](https://github.com/user-attachments/assets/0812439b-904a-461f-ae17-72f159335230)
 
