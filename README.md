@@ -15,7 +15,7 @@ A real-time **face recognition-based attendance system** that identifies student
 
 ## **Prerequisites**
 
-1. **Python 3.x** installed  
+1. **Python 3.10** installed  
 2. Create a Firebase project:
    - Enable **Realtime Database** and **Storage**.
    - Download the **`serviceAccountKey.json`** file for authentication.
